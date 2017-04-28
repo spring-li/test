@@ -1,0 +1,26 @@
+.bgc {
+	background: #ccc;
+	text-align: left;
+	line-height: 30px;
+}
+.bt {
+	border-bottom: solid 1px #c0c0c1;
+}
+.z9 {
+	z-index: 9;
+}
+.z9 a {
+	padding-left:10px; 
+}
+.z110 {
+	z-index: 110;
+	position: relative;
+}
+.pailie{
+	padding: 0; 
+}
+.pailie img{
+	float: left;
+	width: 30%;
+	padding: 1% 2%;
+}
